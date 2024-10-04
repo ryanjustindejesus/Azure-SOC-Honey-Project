@@ -73,11 +73,11 @@ By conducting a thorough comparison of the security metrics before and after the
 - The showcased attack map offers a visual depiction of the direct consequences that occur when the <b>Network Security Group (NSG)</b> is left unsecured, permitting unrestricted entry of malicious traffic. This compelling visualization strongly highlights the critical significance of implementing stringent security measures, including the enforcement of restrictions on NSG rules. Such measures play a pivotal role in proactively preventing unauthorized access and effectively minimizing potential threats to the system.
 
 
-![(Before) syslog-ssh-auth-fail](https://github.com/ibmancodin23/Azure-Honeynet-SOC-Project/assets/19808403/706314f4-38ca-45c1-ad0c-c787538231a8)
+![(Before) syslog-ssh-auth-fail](https://github.com/ryanjustindejesus/Azure-SOC-Honey-Project/blob/main/linux-ssh-auth-fail.png)
 
 - The highlighted attack map draws attention to a notable occurrence of <b>syslog authentication failures</b> observed on the deployed Linux server, which indicates unauthorized access attempts originating from external sources. This serves as a pivotal reminder of the indispensable need to prioritize the security of Linux servers by implementing robust authentication mechanisms and maintaining vigilant monitoring of system logs to promptly detect and respond to any signs of intrusion attempts.
 
-![(Before) windows-rdp-smb-auth-fail](https://github.com/ibmancodin23/Azure-Honeynet-SOC-Project/assets/19808403/d5d6d41c-a4f9-47c3-bef4-7bf72d5e0d4e)
+![(Before) windows-rdp-smb-auth-fail](https://github.com/ryanjustindejesus/Azure-SOC-Honey-Project/blob/main/windows-rdp-auth-fail.png)
 
 - This visual representation serves as a compelling reminder of the paramount importance of securing remote access and file sharing services. By implementing robust security measures in these areas, organizations can effectively mitigate the risk of unauthorized access and potential cyber threats, ensuring the protection of valuable data and resources.
 
