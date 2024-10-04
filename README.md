@@ -67,7 +67,7 @@ By conducting a thorough comparison of the security metrics before and after the
 
 
 ## Attack Maps Before Hardening / Security Controls
-![(Before) nsg-malicious-allowed ](https://github.com/ibmancodin23/Azure-Honeynet-SOC-Project/assets/19808403/ec8ae96d-030f-4208-8eb8-ca9623d22b8c)
+![(Before) nsg-malicious-allowed ](https://github.com/ryanjustindejesus/Azure-SOC-Honey-Project/blob/main/nsg-malicious-allowed-in.png)
 
 
 - The showcased attack map offers a visual depiction of the direct consequences that occur when the <b>Network Security Group (NSG)</b> is left unsecured, permitting unrestricted entry of malicious traffic. This compelling visualization strongly highlights the critical significance of implementing stringent security measures, including the enforcement of restrictions on NSG rules. Such measures play a pivotal role in proactively preventing unauthorized access and effectively minimizing potential threats to the system.
